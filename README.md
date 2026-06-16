@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-tus-ojos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Deseo en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-tus-ojos/) |
+| **Get License** | [Music Rights & Licensing for Deseo en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-tus-ojos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 7705effd9f9596a397f3e93b16270bf98badb58e
+> Baby, veo el deseo brillando en tus ojo'
+> La noche es nuestra, mami, perdamos el foco
+> Ese movimiento tuyo me está volviendo loco
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
