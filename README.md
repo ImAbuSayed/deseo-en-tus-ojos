@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-tus-ojos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Deseo en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-tus-ojos/) |
+| **Get License** | [Secure Licensing Rights for Deseo en tus ojos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-tus-ojos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cb2141fcbf7f608b58f6b03cad3cad0f0fd812e246d2e8cf29e37f432bde1d1a` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

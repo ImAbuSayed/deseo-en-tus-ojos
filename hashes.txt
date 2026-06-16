@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo en tus ojos
+
+This log tracks the cryptographic history and versioning for the song **Deseo en tus ojos** (deseo-en-tus-ojos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:55:50.072902 | `v1` | `cb2141fcbf7f608b58f6b03cad3cad0f0fd812e246d2e8cf29e37f432bde1d1a` | `8c93511195d156ec827cba8271b323a1315201c3135b00e6e01d3c607f23c805` | `2026-06-17_deseo-en-tus-ojos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
